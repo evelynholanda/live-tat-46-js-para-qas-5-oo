@@ -1,7 +1,6 @@
 {
   "name": "live-tat-46-js-para-qas-5-oo",
   "version": "1.0.0",
-  "description": "",
   "main": "oo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelynholanda/live-tat-46-js-para-qas-5-oo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evelynholanda/live-tat-46-js-para-qas-5-oo/issues"
+  },
+  "homepage": "https://github.com/evelynholanda/live-tat-46-js-para-qas-5-oo#readme",
+  "description": ""
 }
